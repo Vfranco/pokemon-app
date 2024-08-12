@@ -1,0 +1,25 @@
+.container {
+  padding: 20px;
+}
+
+.ant-card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.ant-card-cover img {
+  object-fit: cover;
+  height: 120px;
+}
+
+.ant-card-body {
+  padding: 12px;
+}
+
+.cardContent {
+  font-size: 12px;
+}
+
+.cardContent p {
+  margin: 4px 0;
+}
